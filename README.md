@@ -1,6 +1,6 @@
 # github-pages-deployment
 
-This is based off the DevOps Roadmap Project [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)
+This is based off the DevOps Roadmap Project [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow)
 
 Write a simple GitHub Actions workflow to deploy a static website to GitHub Pages. 
 
