@@ -33,3 +33,9 @@ After finishing this project, you will have a good understanding of the followin
     Writing GitHub Actions workflows
 
 Continue solving more projects for advanced CI/CD concepts.
+
+### Notes 
+
+- Make sure Pages source is set to GitHub Actions 
+- Used a `Deploy static content to Pages` workflow template from gitHub 
+- [LINK TO THE PAGE](https://d3jag0re.github.io/github-pages-deployment/)
